@@ -1,0 +1,23 @@
+{
+  "name": "aws-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sencenan/aws-tools.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sencenan/aws-tools/issues"
+  },
+  "homepage": "https://github.com/sencenan/aws-tools",
+  "dependencies": {
+    "aws-sdk": "^2.1.39",
+    "lodash": "^3.10.0"
+  }
+}
